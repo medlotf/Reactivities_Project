@@ -124,3 +124,5 @@ D:\projects\react_.netCore\Reactivities_Project\API\obj\Debug\netcoreapp3.1\API.
 D:\projects\react_.netCore\Reactivities_Project\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
 D:\projects\react_.netCore\Reactivities_Project\API\obj\Debug\netcoreapp3.1\API.dll
 D:\projects\react_.netCore\Reactivities_Project\API\obj\Debug\netcoreapp3.1\API.pdb
+D:\projects\react_.netCore\Reactivities_Project\API\bin\Debug\netcoreapp3.1\MediatR.dll
+D:\projects\react_.netCore\Reactivities_Project\API\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
