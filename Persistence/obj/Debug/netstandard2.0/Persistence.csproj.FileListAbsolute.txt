@@ -9,3 +9,14 @@ D:\projects\react & .net core\Reactivities_Project\Persistence\obj\Debug\netstan
 D:\projects\react & .net core\Reactivities_Project\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CopyComplete
 D:\projects\react & .net core\Reactivities_Project\Persistence\obj\Debug\netstandard2.0\Persistence.dll
 D:\projects\react & .net core\Reactivities_Project\Persistence\obj\Debug\netstandard2.0\Persistence.pdb
+D:\projects\react_.netCore\Reactivities_Project\Persistence\bin\Debug\netstandard2.0\Persistence.deps.json
+D:\projects\react_.netCore\Reactivities_Project\Persistence\bin\Debug\netstandard2.0\Persistence.dll
+D:\projects\react_.netCore\Reactivities_Project\Persistence\bin\Debug\netstandard2.0\Persistence.pdb
+D:\projects\react_.netCore\Reactivities_Project\Persistence\bin\Debug\netstandard2.0\Domain.dll
+D:\projects\react_.netCore\Reactivities_Project\Persistence\bin\Debug\netstandard2.0\Domain.pdb
+D:\projects\react_.netCore\Reactivities_Project\Persistence\obj\Debug\netstandard2.0\Persistence.csprojAssemblyReference.cache
+D:\projects\react_.netCore\Reactivities_Project\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfoInputs.cache
+D:\projects\react_.netCore\Reactivities_Project\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfo.cs
+D:\projects\react_.netCore\Reactivities_Project\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CopyComplete
+D:\projects\react_.netCore\Reactivities_Project\Persistence\obj\Debug\netstandard2.0\Persistence.dll
+D:\projects\react_.netCore\Reactivities_Project\Persistence\obj\Debug\netstandard2.0\Persistence.pdb

@@ -11,3 +11,16 @@ D:\projects\react & .net core\Reactivities_Project\Application\obj\Debug\netstan
 D:\projects\react & .net core\Reactivities_Project\Application\obj\Debug\netstandard2.0\Application.csproj.CopyComplete
 D:\projects\react & .net core\Reactivities_Project\Application\obj\Debug\netstandard2.0\Application.dll
 D:\projects\react & .net core\Reactivities_Project\Application\obj\Debug\netstandard2.0\Application.pdb
+D:\projects\react_.netCore\Reactivities_Project\Application\bin\Debug\netstandard2.0\Application.deps.json
+D:\projects\react_.netCore\Reactivities_Project\Application\bin\Debug\netstandard2.0\Application.dll
+D:\projects\react_.netCore\Reactivities_Project\Application\bin\Debug\netstandard2.0\Application.pdb
+D:\projects\react_.netCore\Reactivities_Project\Application\bin\Debug\netstandard2.0\Domain.dll
+D:\projects\react_.netCore\Reactivities_Project\Application\bin\Debug\netstandard2.0\Persistence.dll
+D:\projects\react_.netCore\Reactivities_Project\Application\bin\Debug\netstandard2.0\Domain.pdb
+D:\projects\react_.netCore\Reactivities_Project\Application\bin\Debug\netstandard2.0\Persistence.pdb
+D:\projects\react_.netCore\Reactivities_Project\Application\obj\Debug\netstandard2.0\Application.csprojAssemblyReference.cache
+D:\projects\react_.netCore\Reactivities_Project\Application\obj\Debug\netstandard2.0\Application.AssemblyInfoInputs.cache
+D:\projects\react_.netCore\Reactivities_Project\Application\obj\Debug\netstandard2.0\Application.AssemblyInfo.cs
+D:\projects\react_.netCore\Reactivities_Project\Application\obj\Debug\netstandard2.0\Application.csproj.CopyComplete
+D:\projects\react_.netCore\Reactivities_Project\Application\obj\Debug\netstandard2.0\Application.dll
+D:\projects\react_.netCore\Reactivities_Project\Application\obj\Debug\netstandard2.0\Application.pdb

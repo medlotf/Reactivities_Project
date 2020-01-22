@@ -17,6 +17,7 @@ namespace API
         public static void Main(string[] args)
         {
             var host = CreateHostBuilder(args).Build();
+            
             //Creating DataBase:
             using (var scope = host.Services.CreateScope())
             {
