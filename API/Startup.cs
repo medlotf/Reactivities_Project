@@ -39,6 +39,7 @@ namespace API
 
             //Add MediatR
             services.AddMediatR(typeof(List.Handler).Assembly);
+            
             services.AddControllers();
         }
 
