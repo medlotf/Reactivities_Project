@@ -14,3 +14,11 @@ D:\projects\react_.netCore\Reactivities_Project\Domain\obj\Debug\netstandard2.0\
 D:\projects\react_.netCore\Reactivities_Project\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
 D:\projects\react_.netCore\Reactivities_Project\Domain\obj\Debug\netstandard2.0\Domain.dll
 D:\projects\react_.netCore\Reactivities_Project\Domain\obj\Debug\netstandard2.0\Domain.pdb
+F:\Reactivities_Project\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+F:\Reactivities_Project\Domain\bin\Debug\netstandard2.0\Domain.dll
+F:\Reactivities_Project\Domain\bin\Debug\netstandard2.0\Domain.pdb
+F:\Reactivities_Project\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+F:\Reactivities_Project\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+F:\Reactivities_Project\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+F:\Reactivities_Project\Domain\obj\Debug\netstandard2.0\Domain.dll
+F:\Reactivities_Project\Domain\obj\Debug\netstandard2.0\Domain.pdb

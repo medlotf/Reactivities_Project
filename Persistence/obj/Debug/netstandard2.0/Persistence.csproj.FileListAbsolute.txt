@@ -20,3 +20,14 @@ D:\projects\react_.netCore\Reactivities_Project\Persistence\obj\Debug\netstandar
 D:\projects\react_.netCore\Reactivities_Project\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CopyComplete
 D:\projects\react_.netCore\Reactivities_Project\Persistence\obj\Debug\netstandard2.0\Persistence.dll
 D:\projects\react_.netCore\Reactivities_Project\Persistence\obj\Debug\netstandard2.0\Persistence.pdb
+F:\Reactivities_Project\Persistence\bin\Debug\netstandard2.0\Persistence.deps.json
+F:\Reactivities_Project\Persistence\bin\Debug\netstandard2.0\Persistence.dll
+F:\Reactivities_Project\Persistence\bin\Debug\netstandard2.0\Persistence.pdb
+F:\Reactivities_Project\Persistence\bin\Debug\netstandard2.0\Domain.dll
+F:\Reactivities_Project\Persistence\bin\Debug\netstandard2.0\Domain.pdb
+F:\Reactivities_Project\Persistence\obj\Debug\netstandard2.0\Persistence.csprojAssemblyReference.cache
+F:\Reactivities_Project\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfoInputs.cache
+F:\Reactivities_Project\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfo.cs
+F:\Reactivities_Project\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CopyComplete
+F:\Reactivities_Project\Persistence\obj\Debug\netstandard2.0\Persistence.dll
+F:\Reactivities_Project\Persistence\obj\Debug\netstandard2.0\Persistence.pdb

@@ -24,3 +24,16 @@ D:\projects\react_.netCore\Reactivities_Project\Application\obj\Debug\netstandar
 D:\projects\react_.netCore\Reactivities_Project\Application\obj\Debug\netstandard2.0\Application.csproj.CopyComplete
 D:\projects\react_.netCore\Reactivities_Project\Application\obj\Debug\netstandard2.0\Application.dll
 D:\projects\react_.netCore\Reactivities_Project\Application\obj\Debug\netstandard2.0\Application.pdb
+F:\Reactivities_Project\Application\bin\Debug\netstandard2.0\Application.deps.json
+F:\Reactivities_Project\Application\bin\Debug\netstandard2.0\Application.dll
+F:\Reactivities_Project\Application\bin\Debug\netstandard2.0\Application.pdb
+F:\Reactivities_Project\Application\bin\Debug\netstandard2.0\Domain.dll
+F:\Reactivities_Project\Application\bin\Debug\netstandard2.0\Persistence.dll
+F:\Reactivities_Project\Application\bin\Debug\netstandard2.0\Domain.pdb
+F:\Reactivities_Project\Application\bin\Debug\netstandard2.0\Persistence.pdb
+F:\Reactivities_Project\Application\obj\Debug\netstandard2.0\Application.csprojAssemblyReference.cache
+F:\Reactivities_Project\Application\obj\Debug\netstandard2.0\Application.AssemblyInfoInputs.cache
+F:\Reactivities_Project\Application\obj\Debug\netstandard2.0\Application.AssemblyInfo.cs
+F:\Reactivities_Project\Application\obj\Debug\netstandard2.0\Application.csproj.CopyComplete
+F:\Reactivities_Project\Application\obj\Debug\netstandard2.0\Application.dll
+F:\Reactivities_Project\Application\obj\Debug\netstandard2.0\Application.pdb
