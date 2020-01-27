@@ -1,28 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Reactivities_Project\\Persistence\\Persistence.csproj": {}
+    "D:\\projects\\react_.netCore\\Reactivities_Project\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
-    "F:\\Reactivities_Project\\Domain\\Domain.csproj": {
+    "D:\\projects\\react_.netCore\\Reactivities_Project\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Reactivities_Project\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\projects\\react_.netCore\\Reactivities_Project\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "F:\\Reactivities_Project\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\LOTF Mohamed\\.nuget\\packages\\",
-        "outputPath": "F:\\Reactivities_Project\\Domain\\obj\\",
+        "projectPath": "D:\\projects\\react_.netCore\\Reactivities_Project\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\M.lotf\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\react_.netCore\\Reactivities_Project\\Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\LOTF Mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\M.lotf\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/NetfectiveFr/_packaging/ecommercev3-nuget/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
@@ -55,35 +60,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Reactivities_Project\\Persistence\\Persistence.csproj": {
+    "D:\\projects\\react_.netCore\\Reactivities_Project\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Reactivities_Project\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "D:\\projects\\react_.netCore\\Reactivities_Project\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "F:\\Reactivities_Project\\Persistence\\Persistence.csproj",
-        "packagesPath": "C:\\Users\\LOTF Mohamed\\.nuget\\packages\\",
-        "outputPath": "F:\\Reactivities_Project\\Persistence\\obj\\",
+        "projectPath": "D:\\projects\\react_.netCore\\Reactivities_Project\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\M.lotf\\.nuget\\packages\\",
+        "outputPath": "D:\\projects\\react_.netCore\\Reactivities_Project\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\LOTF Mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\M.lotf\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/NetfectiveFr/_packaging/ecommercev3-nuget/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "F:\\Reactivities_Project\\Domain\\Domain.csproj": {
-                "projectPath": "F:\\Reactivities_Project\\Domain\\Domain.csproj"
+              "D:\\projects\\react_.netCore\\Reactivities_Project\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\projects\\react_.netCore\\Reactivities_Project\\Domain\\Domain.csproj"
               }
             }
           }
@@ -122,7 +132,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

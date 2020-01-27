@@ -1,3 +1,4 @@
+//Description of the table:
 export interface IActivity {
     id: string;
     title: string;

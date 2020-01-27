@@ -1,3 +1,5 @@
+//Fichier lien end tre front-end and back-end:
+
 import axios, { AxiosResponse } from "axios";
 import { IActivity } from "../models/activity";
 

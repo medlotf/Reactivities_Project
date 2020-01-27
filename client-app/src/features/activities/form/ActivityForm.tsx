@@ -1,34 +1,38 @@
-import React, { useState, FormEvent, useContext } from "react";
+import React, { useState, FormEvent, useContext, useEffect } from "react";
 import { Segment, Form, Button } from "semantic-ui-react";
 import { IActivity } from "../../../app/models/activity";
 import { v4 as uuid } from "uuid";
 import { observer } from "mobx-react-lite";
 import ActivityStore from "../../../app/stores/activityStore";
+import { RouteComponentProps } from "react-router-dom";
 
-interface IProps {
-    activity: IActivity;
+interface DetailParams {
+    id: string;
 }
 
-const ActivityForm: React.FC<IProps> = ({
-    activity: InitialActivity
+const ActivityForm: React.FC<RouteComponentProps<DetailParams>> = ({
+    match,
+    history
 }) => {
-    const activityStore=useContext(ActivityStore);
-    const {createActivity,editActivity,submitting,closeForm}=activityStore;
-    
-    const initializeForm = () => {
-        if (InitialActivity) return InitialActivity;
-        return {
-            id: "",
-            title: "",
-            description: "",
-            category: "",
-            date: "",
-            city: "",
-            venue: ""
-        };
-    };
+    const activityStore = useContext(ActivityStore);
+    const {
+        createActivity,
+        editActivity,
+        submitting,
+        selectedActivity: InitialActivity,
+        loadActivity,
+        clearActivity
+    } = activityStore;
 
-    const [activity, setActivity] = useState<IActivity>(initializeForm);
+    const [activity, setActivity] = useState<IActivity>({
+        id: "",
+        title: "",
+        description: "",
+        category: "",
+        date: "",
+        city: "",
+        venue: ""
+    });
 
     const handleInputChange = (
         event: FormEvent<HTMLInputElement | HTMLTextAreaElement>
@@ -43,11 +47,32 @@ const ActivityForm: React.FC<IProps> = ({
                 ...activity,
                 id: uuid()
             };
-            createActivity(newActivity);
+            createActivity(newActivity).then(() =>
+                history.push(`/activities/${newActivity.id}`)
+            );
         } else {
-            editActivity(activity);
+            editActivity(activity).then(() =>
+                history.push(`/activities/${activity.id}`)
+            );
         }
     };
+
+    useEffect(() => {
+        if (match.params.id && activity.id.length === 0) {
+            loadActivity(match.params.id).then(
+                () => InitialActivity && setActivity(InitialActivity)
+            );
+        }
+        return () => {
+            clearActivity();
+        };
+    }, [
+        loadActivity,
+        clearActivity,
+        match.params.id,
+        InitialActivity,
+        activity.id.length
+    ]);
 
     return (
         <Segment clearing>
@@ -101,7 +126,7 @@ const ActivityForm: React.FC<IProps> = ({
                     floated="right"
                     content="Cancel"
                     type="submit"
-                    onClick={closeForm}
+                    onClick={() => history.push("/activities")}
                 />
             </Form>
         </Segment>
