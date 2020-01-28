@@ -190,3 +190,8 @@ F:\Reactivities_Project\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.
 F:\Reactivities_Project\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
 F:\Reactivities_Project\API\obj\Debug\netcoreapp3.1\API.dll
 F:\Reactivities_Project\API\obj\Debug\netcoreapp3.1\API.pdb
+D:\projects\react_.netCore\Reactivities_Project\API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\projects\react_.netCore\Reactivities_Project\API\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+D:\projects\react_.netCore\Reactivities_Project\API\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+D:\projects\react_.netCore\Reactivities_Project\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cs
+D:\projects\react_.netCore\Reactivities_Project\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
